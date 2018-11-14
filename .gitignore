@@ -1,0 +1,4 @@
+auth/vendor/
+!auth/vendor/vendor.json
+apiserver/vendor/
+!apiserver/vendor/vendor.json
